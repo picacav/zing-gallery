@@ -1,19 +1,24 @@
 module.exports = {
 	cdnDomain: '/',
-	title: 'Zing Gallery',
+	title: '铁三角',
 	avatar: './img/avatar.png',
 	wording: {
 		noAccess: '抱歉，你没有权限访问'
 	},
 	albums: {
-		"青海湖": {
-			thumbnail: "打马而过.jpg",
+		"上学打卡": {
+			thumbnail: "IMG_3577.jpg",
 		  sort: 1
 		}, 
-		"江南小镇": {
-		  description : "没有什么能够阻挡",
-			thumbnail: "燕歌行.jpg",
+		"嬉戏游玩": {
+		  description : "什么都能玩",
+			thumbnail: "堂前燕.jpg",
 		  name: "南浔"
+		},
+		"幼儿园": {
+		  description : "近江艺术幼儿园",
+			thumbnail: "打马而过.jpg",
+		  name: "近江艺术幼儿园"
 		},
 		"私密": {
 			description: "这是一个需要密码的相册",
